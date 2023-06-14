@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-h {
+    font-family: "calibri";
+    color: #061f54;
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 0px;
+
+}
+
+.main-bg {
+    background-image: linear-gradient(to bottom, #e7eff6, #FFDEE9)
+}
+
+.bg {
+    background-image: linear-gradient(to bottom, #FFD3A5, #B5FFFC)
+}
+
+.ti {
+    background-color: white;
+}
+
+.h1 {
+    font-family: "bree Serif";
+    font-size: 15px;
+    color: black;
+}
+
+.h8 {
+    font-family: "bree Serif";
+    font-size: 15px;
+    color: black;
+}
+
+.im {
+    width: 100%;
+    height: 50%;
+    border-radius: 0px;
+}
+
+.im1 {
+    width: 80px;
+    border-radius: 25px;
+
+}
+
+.c1 {
+    border-radius: 20px;
+}
+
+.h2 {
+    font-family: "Bree Serif";
+    text-align: center;
+    font-size: 32px;
+}
+
+.line {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ffb703;
+    width: 85%;
+}
+
+.p1 {
+    font-family: "calibri";
+    color: black;
+    font-style: italic;
+    font-size: 13px;
+}
+
+.p2 {
+    font-family: "calibri";
+    color: black;
+    font-style: italic;
+    font-size: 25px;
+}
+
+
+.car-i {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+
+}
+
+.ch {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.ph {
+    font-family: "calibri";
+    font-size: 18px;
+    font-style: italic;
+    color: #5a7184;
+
+}
+
+.c {
+    border-radius: 10px;
+}
+
+.car {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #FF2525;
+    border-top: none;
+    background-color: white;
+    padding: 15px;
+    height: 60%;
+    text-align: center;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.small-i {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.small-car {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-top: none;
+    padding: 12px;
+    background-color: white;
+    text-align: center;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.sh {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.sp {
+    font-family: "calibri";
+    font-size: 14px;
+    font-style: italic;
+    color: #5a7184;
+}
+
+.car2 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.ima1 {
+    border-radius: 10px;
+    height: 250px;
+}
+
+.pa {
+    font-family: "Roboto";
+    color: Black;
+    font-weight: bold;
+    padding: 3px;
+}
+
+.logos {
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-color: #0e9aa7;
+    border-width: 2px;
+}
+
+.lc {
+    padding: 10px;
+    background-color: blue;
+}
+
+
+.lastbg {
+    background-image: linear-gradient(to bottom, #d2ffff, #0694c6);
+}
+
+.lh {
+    font-family: "Roboto";
+    font-size: 22px;
+}
+
+.ic {
+    border-radius: 40px;
+    padding-top: 12px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    margin-bottom: 5px;
+    height: 50px;
+    margin: 5px;
+    width: 70px;
+    background-color: #faf7e8;
+}
+
+.icon-size-f {
+    font-size: 28px;
+    color: #1778f2;
+}
+
+.icon-size-t {
+    font-size: 28px;
+    color: #08a0e9;
+}
+
+.icon-size-l {
+    font-size: 28px;
+    color: #0077b5;
+}
+
+.icon-size-g {
+    font-size: 28px;
+    color: black;
+}
+
+.icon-size-y {
+    font-size: 28px;
+    color: red;
+}
+
+.lp {
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.lh {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.clients-bg {
+    background-image: radial-gradient(#FFD3A5, #FD6585);
+}
